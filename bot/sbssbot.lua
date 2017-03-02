@@ -239,24 +239,17 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {86418292,125667772},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    about_text = [[King Server Bot V2 Beta]
     
     Develpoed By:
-    @sina7sk
-    Manager:
-    @yellowhat
+    @Hamed_server
     Founder:
-    @amirho3in
-    
+    @Hamed_server
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    Server Team
     
 ]],
     help_text_realm = [[
@@ -264,9 +257,9 @@ See Patterns In Github
 ]],
     help_text = [[
 
-  لیست دستورات :
-
-اخراج [آیدی،کد،ریپلای] 👤
+  لیست دستورات ربات سرور:
+		
+اخراج [آیدی،کد،ریپلای] 👤		
 شخص مورد نظر از گروه اخراج ميشود
 _________________________________________
 بن [آیدی،کد،ریپلای]😟
@@ -343,9 +336,9 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+ليست سودوها :
+@Hamed_Server
+@Mohammad_Wonder
 ]]
   }
   serialize_to_file(config, './data/config.lua')
